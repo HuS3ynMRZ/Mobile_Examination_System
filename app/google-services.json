@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920914725666",
+    "project_id": "kotlin-mobile-exam-app",
+    "storage_bucket": "kotlin-mobile-exam-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920914725666:android:8bd103b4e603609196337b",
+        "android_client_info": {
+          "package_name": "com.example.mobilimtahansistemi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920914725666-63q04shjbojg7rj5j9g5mbmup9hen6uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8A2xSlosRCEcJ9dw_912JbKUBgQgFlw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920914725666-63q04shjbojg7rj5j9g5mbmup9hen6uh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
