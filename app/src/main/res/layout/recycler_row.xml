@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/recyclerEmailText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="User Email"
+        android:textSize="20sp"
+        android:layout_margin="5dp"
+        android:textColor="@color/black"></TextView>
+
+    <TextView
+        android:id="@+id/recyclerCommentText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22dp"
+        android:textColor="@color/light_blue_900"
+        android:text="sual test1"
+        android:layout_margin="5dp"
+        ></TextView>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Cavab"></EditText>
+    <TextView
+        android:id="@+id/recyclerCommentText2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22dp"
+        android:textColor="@color/light_blue_900"
+        android:text="sual test2"
+        android:layout_margin="5dp"
+        ></TextView>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Cavab"></EditText>
+    <TextView
+        android:id="@+id/recyclerCommentText3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22dp"
+        android:textColor="@color/light_blue_900"
+        android:text="sual test3"
+        android:layout_margin="5dp"
+        ></TextView>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Cavab"></EditText>
+
+
+</LinearLayout>

@@ -16,13 +16,13 @@
             android:label="@string/title_activity_fullscreen"
             android:theme="@style/Theme.MobilImtahanSistemi.Fullscreen" />
         <activity
-            android:name=".UploadActivity"
+            android:name=".view.UploadActivity"
             android:exported="false" />
         <activity
-            android:name=".FeedActivity"
+            android:name=".view.FeedActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".view.MainActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

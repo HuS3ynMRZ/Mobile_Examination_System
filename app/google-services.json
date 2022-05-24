@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "920914725666",
-    "project_id": "kotlin-mobile-exam-app",
-    "storage_bucket": "kotlin-mobile-exam-app.appspot.com"
+    "project_number": "771850729188",
+    "project_id": "kotlin-bef7f",
+    "storage_bucket": "kotlin-bef7f.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:920914725666:android:8bd103b4e603609196337b",
+        "mobilesdk_app_id": "1:771850729188:android:bfa5ce29f79466a99f9ef1",
         "android_client_info": {
           "package_name": "com.example.mobilimtahansistemi"
         }
       },
       "oauth_client": [
         {
-          "client_id": "920914725666-63q04shjbojg7rj5j9g5mbmup9hen6uh.apps.googleusercontent.com",
+          "client_id": "771850729188-ifqerpcvrkkbr0pfpkvb1ph673kchr9u.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC8A2xSlosRCEcJ9dw_912JbKUBgQgFlw8"
+          "current_key": "AIzaSyDTik5ep3rhbEYK8HlZnmAw3FbfQYf0LfE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "920914725666-63q04shjbojg7rj5j9g5mbmup9hen6uh.apps.googleusercontent.com",
+              "client_id": "771850729188-ifqerpcvrkkbr0pfpkvb1ph673kchr9u.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
